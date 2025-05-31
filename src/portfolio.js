@@ -56,7 +56,7 @@ const skillsSection = {
     ),
     emoji("⚡ I build secure, scalable, and resilient network environments with a focus on advanced firewall systems, load balancers, and threat prevention technologies."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ With hands-on experience across Check Point, Fortinet, F5, and Palo Alto, I implement robust security frameworks tailored to organizational needs"
     )
   ],
 
@@ -126,9 +126,9 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "London Metropolitan University",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
+      subHeader: "Bachelor of Computer Networking and IT Security",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
@@ -137,7 +137,7 @@ const educationInfo = {
       ]
     },
     {
-      schoolName: "Stanford University",
+      schoolName: "Trinity International College",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2013 - April 2017",
