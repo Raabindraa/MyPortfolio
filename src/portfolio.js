@@ -52,8 +52,7 @@ const skillsSection = {
   subTitle: "SECURING NETWORKS WITH ENTERPRISE-GRADE SOLUTIONS",
   skills: [
     emoji(
-      "⚡ I specialize in designing, deploying, and managing network and security infrastructure using Check Point, Palo Alto, Fortinet, F5, and other leading technologies to ensure enterprise-grade protection and performance.
-"
+      "⚡ I specialize in designing, deploying, and managing network and security infrastructure using Check Point, Palo Alto, Fortinet, F5"
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
