@@ -23,7 +23,7 @@ const greeting = {
   username: "Saad Pasta",
   title: "Hi all, I'm Rabindra Khadka",
   subTitle: emoji(
-    "A passionate Network Security Engineer 🚀 having an experience of desinging network, troubleshooting network and security issuew with background of building Web applications with JavaScript / Reactjs."
+    "A passionate Network Security Engineer 🚀 having an experience of desinging network, troubleshooting network and security issue with background of building Web applications with JavaScript / Reactjs."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -54,7 +54,7 @@ const skillsSection = {
     emoji(
       "⚡ I specialize in designing, deploying, and managing network and security infrastructure using Check Point, Palo Alto, Fortinet, F5"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ I build secure, scalable, and resilient network environments with a focus on advanced firewall systems, load balancers, and threat prevention technologies."),
     emoji(
       "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
     )
