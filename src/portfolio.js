@@ -20,10 +20,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Rabindra Khadka",
+  username: "Saad Pasta",
   title: "Hi all, I'm Rabindra Khadka",
   subTitle: emoji(
-    "A passionate Network Security Engineer 🚀 having an experience of desinging network, troubleshooting network and security issuew with background of building Web applications with JavaScript / Reactjs"
+    "A passionate Network Security Engineer 🚀 having an experience of desinging network, troubleshooting network and security issuew with background of building Web applications with JavaScript / Reactjs."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
