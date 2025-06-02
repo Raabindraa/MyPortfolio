@@ -142,7 +142,7 @@ const educationInfo = {
       subHeader: "NEB BOARD examination Science",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Courses were physics, chemistry and biology as a major",
-      descBullets: ["Completed Higher Secondary Education under the NEB Board with Science major,
+      descBullets: ["Completed Higher Secondary Education under the NEB Board with Science major",
                     "Excelled in laboratory-based practicals and theoretical concept",
                     "Actively participated in science fairs and academic workshops"]
     }
