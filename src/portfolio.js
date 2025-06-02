@@ -139,10 +139,12 @@ const educationInfo = {
     {
       schoolName: "Trinity International College",
       logo: require("./assets/images/trinity.png"),
-      subHeader: "Bachelor of Science in Computer Science",
+      subHeader: "NEB BOARD examination Science",
       duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Ranked top 10% in the program. Courses were physics, chemistry and biology as a major",
+      descBullets: ["Completed Higher Secondary Education under the NEB Board with Science major,
+                    "Excelled in laboratory-based practicals and theoretical concept",
+                    "Actively participated in science fairs and academic workshops"]
     }
   ]
 };
