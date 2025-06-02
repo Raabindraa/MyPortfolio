@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "London Metropolitan University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/london.png"),
       subHeader: "Bachelor of Computer Networking and IT Security",
       duration: "September 2017 - April 2019",
       desc: "Participated in the research of XXX and published 3 papers.",
