@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Rabindra Khadka",
   title: "Hi all, I'm Rabindra Khadka",
   subTitle: emoji(
     "A passionate Network Security Engineer 🚀 having an experience of desinging network, troubleshooting network and security issue with background of building Web applications with JavaScript / Reactjs."
